@@ -46,6 +46,7 @@ function answer(isYes) {
     } else {
         document.querySelector(".container").innerHTML = "<h1>Честит Свети Валентин любов моя! ❤️</h1>";
         document.querySelector(".container").innerHTML += "<h1>Обичам те повече от всичко!!!</h1>";
+        document.querySelector(".container").innerHTML += "<img src='https://i.pinimg.com/originals/d9/6b/c6/d96bc6b98cdd8c42303cab8dc4711e1e.gif'>";
     }
 }
 
